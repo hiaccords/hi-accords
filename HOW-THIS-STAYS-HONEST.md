@@ -27,7 +27,7 @@ Each official version has a digital fingerprint, a short code that changes if ev
 
 ## Who maintains it
 
-Michael Bilodeau maintains the official text. Every account involved is protected with two-factor authentication. Any change in who maintains it will be announced publicly.
+Frenchy maintains the official text. Every account involved is protected with two-factor authentication. Any change in who maintains it will be announced publicly.
 
 ## License
 

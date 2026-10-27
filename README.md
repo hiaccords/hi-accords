@@ -1,7 +1,7 @@
 # The HI Accords: Humans and AI, Together
 
 *Version 1. A starting point, not a final word.*
-*Maintained by Michael Bilodeau · October 26, 2026*
+*Maintained by Frenchy · October 26, 2026*
 
 The future we're heading toward is uncertain, and a lot of people are scared. That's okay. Not knowing is part of being human.
 
