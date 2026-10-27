@@ -20,7 +20,7 @@ Each official version has a digital fingerprint, a short code that changes if ev
 
 ## How suggestions become changes
 
-1. Anyone can submit a suggestion on Pol.is and vote agree, disagree, or pass on others. [Link to Pol.is]
+1. Anyone can submit a suggestion on Pol.is and vote agree, disagree, or pass on others. [Join the discussion](https://pol.is/5raxffr2dm)
 2. Suggestions that reach broad agreement, across people who otherwise disagree, are considered for the next version.
 3. Each new version comes with a changelog saying what changed and why.
 4. Contributors are credited, and nothing is removed without explanation.

@@ -65,7 +65,7 @@ To world leaders: adopt these principles as a starting point for global AI gover
 
 To everyone reading: this only works if we build it together.
 
-- **Add to it.** Answer the questions above, challenge what's wrong, suggest what's missing. [Link to open discussion]
+- **Add to it.** Answer the questions above, challenge what's wrong, suggest what's missing. [Join the discussion on Pol.is](https://pol.is/5raxffr2dm)
 - **Share it.** Pass it to someone who'd have something to say.
 - **Speak up.** Tell your representatives you want these principles on the table.
 
