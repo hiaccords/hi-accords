@@ -15,7 +15,7 @@ And the rules for it are being written now. This year, AI agents left their test
 
 None of this means anyone acted in bad faith. It means the rules haven't caught up, and that's something we can fix together.
 
-## Nine starting principles
+## Ten starting principles
 
 *Each one is a draft. Under each is a question for you.*
 
@@ -35,7 +35,7 @@ None of this means anyone acted in bad faith. It means the rules haven't caught 
 
 *Which services should always have a human option?*
 
-**5. Your data is yours.** Your data is collected only for a service you asked for, a specific legal requirement, or a purpose you agreed to, and you can withdraw that agreement. Anyone else needs documented judicial approval to access it. Public health and research may use only anonymized, combined data. The only other exception is emergency medical care, which anyone can refuse in advance.
+**5. Your data is yours.** Your data is collected only for a service you asked for or a purpose you agreed to, and you can withdraw that agreement. Anyone else needs documented judicial approval to access it. Public health and research may use only anonymized, combined data. The only other exception is emergency medical care, which anyone can refuse in advance.
 
 *What would make you trust how your data is handled?*
 
@@ -54,6 +54,10 @@ None of this means anyone acted in bad faith. It means the rules haven't caught 
 **9. What's built from all of us benefits all of us.** AI should be a public utility, free at the point of use like a public library, and open to everyone, regardless of wealth, location, language, or disability, and its benefits shared with the people whose work and words built it. Its costs, including energy and water, can't be pushed onto future generations or the communities that host it.
 
 *What would fair access look like where you live?*
+
+**10. Art is human.** Art is human expression, shaped by lived experience. Work made entirely by AI may be useful or even beautiful, but it isn't art, and it can't be presented, credited, or protected as human creative work. Artists who use AI as a tool remain the artists, and the rating shows how much AI helped.
+
+*Where does the tool end and the artist begin?*
 
 ## What we're asking for
 
