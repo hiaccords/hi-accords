@@ -4,7 +4,7 @@ Every official version of the HI Accords is permanent, public, and checkable, so
 
 ## Every version is permanent
 
-Each official version is published on Zenodo, a free public repository run by CERN. Each one gets a permanent identifier (a DOI), and once published, it can't be altered. New versions are added alongside old ones, never in place of them. [Link to Zenodo record]
+Each official version is published on Zenodo, a free public repository run by CERN. Each one gets a permanent identifier (a DOI), and once published, it can't be altered. New versions are added alongside old ones, never in place of them. [All versions on Zenodo](https://doi.org/10.5281/zenodo.23679447)
 
 ## Every change is visible
 
@@ -16,7 +16,7 @@ Each official version has a digital fingerprint, a short code that changes if ev
 
 | Version | Released | Fingerprint (SHA-256) |
 | --- | --- | --- |
-| 1 | To be added at release | To be added at release |
+| 1 ([DOI 10.5281/zenodo.23679448](https://doi.org/10.5281/zenodo.23679448)) | October 26, 2026 | PDF: `07623cbed336e8fd8e82dd1e2a924f5bc664b4c22fa1023380a6767d95c727bf`<br>Markdown: `47fb65a68b00665579028bac3bf5670df46ec624c061290664119f5ce194d6f3` |
 
 ## How suggestions become changes
 
